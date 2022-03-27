@@ -1,0 +1,1 @@
+document.getElementById("date").onclick = alert("This is the date template");
